@@ -6,13 +6,11 @@ The Iron Range produces the taconite that makes armor and weapons.
 This terrain is the culmination of 900+ hours and months of work.
 It is based on a land filled with dense forests, beautiful lakes, and the largest Iron Ore mines in North America.
 
-
-------------------------------------------------------------
 MNeapolis Shock Troopers Playground
 "We SHOCK, We TROOP, We PLAY!"
-------------------------------------------------------------
 
 ## Reporting Issues
+Please search the existing issues before creating a new case.
 This is a very large terrain 272.25Km Sq.
 Reporting any issues requires using the in-game map to get the coordinates where the issue occurred and a 1-2 line description of the problem. More detailed issues will require a log snippets or zipped logs to review.
 
