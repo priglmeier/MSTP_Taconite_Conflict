@@ -8,7 +8,7 @@ It is based on a land filled with dense forests, beautiful lakes, and the larges
 
 
 ------------------------------------------------------------
-MNeapolis Shock Troopers Playground aka MSTP
+MNeapolis Shock Troopers Playground
 "We SHOCK, We TROOP, We PLAY!"
 ------------------------------------------------------------
 
