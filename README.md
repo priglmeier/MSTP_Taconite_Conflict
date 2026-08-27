@@ -1,7 +1,7 @@
 # MSTP_Taconite_Conflict
 MSTP_Taconite Scenario for Arma Reforger by Priglmeier
 
-## Terrain Info
+## Scenario Info
 The Iron Range produces the taconite that makes armor and weapons.
 This terrain is the culmination of 900+ hours and months of work.
 It is based on a land filled with dense forests, beautiful lakes, and the largest Iron Ore mines in North America.
